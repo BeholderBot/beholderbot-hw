@@ -1,8 +1,6 @@
 # beholderbot-hw
 
-## TODO
-
-## Goals
+### Goals
 - Digital twin of desk arm
 - Design motorized joints
   - Base clamp (yaw)
@@ -27,3 +25,7 @@
   - 3-7: Test / iterate fit on actual hardware
   - 10-14: Build / write prototype
   - 17-21: Prepare for demo
+
+### TODO
+- Send Dynamixels for the arm
+- Send Blossom?
